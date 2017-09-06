@@ -3,6 +3,23 @@
 		{
 			"talk": [
 				{
+					"title": "HTML re-imagined for the era of web apps",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"url": "http://viewsourceconf.org/",
+			"name": "View Source",
+			"date": "2017-10-27",
+			"city": "London",
+			"country": "gb"
+		},
+		{
+			"talk": [
+				{
 					"title": "JS UX: Writing code for humans",
 					"type": "Talk"
 				}
@@ -12,19 +29,6 @@
 			"date": "2017-12-10",
 			"city": "Moscow",
 			"country": "ru"
-		},
-		{
-			"talk": [
-				{
-					"title": "HTML re-imagined for the era of web apps",
-					"type": "Talk"
-				}
-			],
-			"url": "http://viewsourceconf.org/",
-			"name": "View Source",
-			"date": "2017-10-27",
-			"city": "London",
-			"country": "gb"
 		},
 		{
 			"talk": [
